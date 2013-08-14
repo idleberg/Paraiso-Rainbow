@@ -22,4 +22,4 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 [2]: https://raw.github.com/idleberg/Paraiso-Rainbow/master/images/screenshot.gif
 [3]: https://github.com/ccampbell/rainbow
 [4]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-[5]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Paraiso-Rainbow/&title=Paraiso&20Color%20Scheme&description=A%29color%29scheme%29inspired%29by%29the%29colorful%29illustrations%29by%29Brazilian%29artist%29Rubens%29LP&language=en_GB&tags=rainbow,color%20scheme,theme,syntax%20highlight,style-sheets&hidden=0&category=software
+[5]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Paraiso-Rainbow/&title=Paraiso%20Color%20Scheme&description=A%29color%29scheme%29inspired%29by%29the%29colorful%29illustrations%29by%29Brazilian%29artist%29Rubens%29LP&language=en_GB&tags=rainbow,color%20scheme,theme,syntax%20highlight,style-sheets&hidden=0&category=software
